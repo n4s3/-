@@ -1,0 +1,14 @@
+import = [
+  "~/.config/alacritty/themes/themes/gruvbox_dark.toml"
+]
+[window]
+padding = {x=10,y=10}
+opacity = 0.94
+
+[font]
+normal = {family = "monospace ",style = "Regular"}
+bold = {family = "monospace",style = "Bold"}
+italic = {family = "monospace",style = "Italic"}
+bold_italic = {family = "monospace",style = "Bold Italic"}
+size = 9
+
